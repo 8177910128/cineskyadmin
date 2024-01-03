@@ -38,7 +38,7 @@
     @include('common.footer')
     <script type="text/javascript">
         var configData = {
-            url: "{!!route('get-question')!!}",
+            url: "",
             type: '-1'
         }
     </script>
